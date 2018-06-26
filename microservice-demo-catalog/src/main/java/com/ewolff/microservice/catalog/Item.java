@@ -25,13 +25,13 @@ public class Item {
 	public Item() {
 		super();
 		id = 0l;
+		System.out.println("Added by me in ​ Item​");
 	}
 
 	public Item(String name, double price) {
 		super();
 		this.name = name;
 		this.price = price;
-		System.out.println("Added by me in ​ Item​");
 	}
 
 	public String getName() {
