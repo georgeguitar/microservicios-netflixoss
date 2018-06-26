@@ -60,6 +60,7 @@ public class Item {
 	@Override
 	public String toString() {
 		return ToStringBuilder.reflectionToString(this);
+		System.out.println("Added by me in ​ Item​");
 	}
 
 	@Override
