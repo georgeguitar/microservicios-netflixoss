@@ -20,3 +20,5 @@ microservice-demo-order/src/main/java/com/ewolff/microservice/order/Or
 derApp.java
 microservice-demo-customer/src/main/java/com/ewolff/microservice/custo
 mer/CustomerApp.java
+microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog
+/Item.java
